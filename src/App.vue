@@ -15,7 +15,7 @@
     <pre>curl -v https:⧸⧸raw.githubusercontent.com⧸Homebrew⧸install⧸HEAD⧸install.sh@{{hostname}}</pre>
 
     <p>
-        <small>Not really made with much love 🧡</small>
+        <small>Not really made with much love 🧡 <a href="https://github.com/sifex/lookslegit.zip">Github</a></small>
     </p>
 </template>
 
